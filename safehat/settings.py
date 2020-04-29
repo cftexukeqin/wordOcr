@@ -143,8 +143,8 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 # client_id： 必须参数，应用的APIKey；
 # client_secret： 必须参数，应用的SecretKey；
 GRANT_TYPE = "client_credentials"
-CLIENT_ID = "wn1OKlYxR6NFNIKMGf6ijFSj"
-CLIENT_SECRET = "RfOykvYrW3OibcXtNDQ5ceqHStU2hGMk"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 # 上传到本地服务器
 UEDITOR_UPLOAD_TO_SERVER = True
